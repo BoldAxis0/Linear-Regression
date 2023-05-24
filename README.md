@@ -1,4 +1,7 @@
 # Linear-Regression-
+
+This naive linear regression implementation is from several years ago. 
+
 Hello world! I am Siddharth, and this is my code for linear regression using the gradient descent optimisation technique. 
 It is definitely not a very efficient way to write it, as its my first machine learning program.
 It took me a LOT of effort to get this correct; if I remember correctly I have written all the code from start with a new approach 
